@@ -12,3 +12,4 @@
 - HTML
 - CSS
 
+Obs: Projeto Não responsivo
